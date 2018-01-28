@@ -7,7 +7,7 @@ public class Methods {
 	}
 	public static String getUniqueCharacter(String text) {
 		String result = null;
-		
+		text = text.toLowerCase();
 		return result;
 	}
 }
